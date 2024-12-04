@@ -1,0 +1,8 @@
+.dropBoxes select {
+    margin-right: 10px; /* Adds space to the right of each label */
+    display: inline-block; /* Keeps them inline but allows margin and padding */
+}
+
+#jsonOutput {
+    cursor: pointer;
+}
